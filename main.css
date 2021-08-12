@@ -49,11 +49,11 @@
   }
   .fullscreen {
     position: fixed;
-    top: 25%;
-    left: 25%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    min-height: 100vh;
-    min-width: 100vw;
+    min-height: 50vh;
+    min-width: 50vw;
   }
   .text-content {
     background: rgba(0, 0, 0, 0);
